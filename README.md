@@ -1,2 +1,2 @@
-# my-first-repo
+# Мой первый репозиторий
 I'm learning Git.
